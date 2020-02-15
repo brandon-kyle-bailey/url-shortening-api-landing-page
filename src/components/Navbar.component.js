@@ -4,7 +4,7 @@ import '../Navbar.css';
 function Navbar() {
     return ( 
     <div className="Navbar">
-        <h1>This will be a navigation bar.</h1> 
+        <h1>Testing deployment of a react ap to GitHub pages.</h1> 
     </div>
     )
 }
